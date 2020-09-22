@@ -347,13 +347,13 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
   background-color: #C81010 !important;
 }
 .background-blue, .primary-color-blue .background-primary {
-  background-color: #005881 !important;
+  background-color: #C81010 !important;
 }
 .background-aqua, .primary-color-aqua .background-primary {
   background-color: #00B5A6 !important;
 }
 .background-dark, .primary-color-dark .background-primary {
-  background-color: #002633 !important; 
+  background-color: black !important; 
 }
 .background-grey {
   background-color: #f5f5f5 !important;
