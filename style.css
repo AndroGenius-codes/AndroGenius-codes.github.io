@@ -167,11 +167,11 @@ section
     padding: 1.0rem;
 }
 
-.website-one,.react, .weather-app{
+.website-one, .website-two, .weather-app{
     animation: moveTwo 10s infinite;
     animation-direction: alternate;
 }
-.calculator, .website-two, .pizza, .behance{
+.calculator,  .pizza, .behance{
     animation: moveOne 10s infinite;
     animation-direction: alternate;
 
