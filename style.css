@@ -220,8 +220,8 @@ mobile section
 
   /* Smartphone Portrait and Landscape */
   @media only screen
-  and (min-device-width : 320px)
-  and (max-device-width : 480px){ 
+  and (min-device-width : 250px)
+  and (max-device-width : 600px){ 
       .mobileShow {
         display: inline;
         color:#ffffff;
